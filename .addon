@@ -1,8 +1,8 @@
 {
-  "Title": "Tower of Koba",
+  "Title": "assetissue",
   "Type": "game",
   "Org": "local",
-  "Ident": "Tower_of_Koba",
+  "Ident": "issue",
   "Schema": 1,
   "HasAssets": true,
   "AssetsPath": "",
